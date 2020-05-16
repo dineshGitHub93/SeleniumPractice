@@ -1,1 +1,3 @@
 How to access git and GitHub Learning face 
+
+Now i have learnt how to commit the file in git 
