@@ -2,6 +2,7 @@ How to access git and GitHub Learning face
 
 Now i have learnt how to commit the file in git 
 
+I have learnt how to handle different versions
 
 
 Thanks
