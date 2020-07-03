@@ -58,7 +58,7 @@ formatter.match({
   "location": "LoginPageStepDefinitions.user_Launch_chrome_browser()"
 });
 formatter.result({
-  "duration": 8456017900,
+  "duration": 21922862600,
   "status": "passed"
 });
 formatter.match({
@@ -71,7 +71,7 @@ formatter.match({
   "location": "LoginPageStepDefinitions.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 5488715700,
+  "duration": 4790773600,
   "status": "passed"
 });
 formatter.match({
@@ -88,14 +88,14 @@ formatter.match({
   "location": "LoginPageStepDefinitions.user_enters_Email_as_and_password_as(String,String)"
 });
 formatter.result({
-  "duration": 988306500,
+  "duration": 1514177700,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStepDefinitions.user_click_on_login_button()"
 });
 formatter.result({
-  "duration": 189987203000,
+  "duration": 11514841800,
   "status": "passed"
 });
 formatter.match({
@@ -108,14 +108,14 @@ formatter.match({
   "location": "LoginPageStepDefinitions.page_title_should_be(String)"
 });
 formatter.result({
-  "duration": 183117100,
+  "duration": 425791000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStepDefinitions.user_click_on_Log_Out_Button()"
 });
 formatter.result({
-  "duration": 10905838300,
+  "duration": 8072269100,
   "status": "passed"
 });
 formatter.match({
@@ -128,14 +128,14 @@ formatter.match({
   "location": "LoginPageStepDefinitions.homepage_title_should_be(String)"
 });
 formatter.result({
-  "duration": 12950800,
+  "duration": 22731300,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStepDefinitions.close_browser()"
 });
 formatter.result({
-  "duration": 1254632900,
+  "duration": 1969741700,
   "status": "passed"
 });
 });
