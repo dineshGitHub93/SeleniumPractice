@@ -20,6 +20,7 @@ public class LoginPageStepDefinitions {
 
 		System.setProperty("webdriver.chrome.driver", ".//Drivers/chromedriver.exe");
 		driver = new ChromeDriver();
+		driver.manage().window().maximize();
 		lp=new LoginPage(driver);
 	}
 

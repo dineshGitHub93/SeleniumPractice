@@ -12,7 +12,8 @@ import cucumber.api.junit.Cucumber;
 		dryRun = false,
 		monochrome = true,
 		plugin = {"pretty",
-				  "html:webpage"}
+				  "html:webpage",
+				  "json:report/jsonreport.json"	}
 		)
 public class TestRunner {
 
