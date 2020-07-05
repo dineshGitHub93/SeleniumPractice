@@ -1,10 +1,8 @@
 eclipse.preferences.version=1
+encoding//Features/Customers.feature=US-ASCII
 encoding//Features/Login.feature=US-ASCII
-encoding//src/main/java=UFT-8
 encoding//src/main/java/com/cucum/TestRunner/TestRunner.java=US-ASCII
+encoding//src/main/java/com/cucum/pageObjects/AddCustomerPage.java=US-ASCII
 encoding//src/main/java/com/cucum/pageObjects/LoginPage.java=US-ASCII
+encoding//src/main/java/com/cucum/stepDefinitions/CustomersStepDefinitions.java=US-ASCII
 encoding//src/main/java/com/cucum/stepDefinitions/LoginPageStepDefinitions.java=US-ASCII
-encoding//src/main/resources=UFT-8
-encoding//src/test/java=UFT-8
-encoding//src/test/resources=UFT-8
-encoding/<project>=UFT-8

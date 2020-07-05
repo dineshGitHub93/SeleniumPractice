@@ -7,9 +7,9 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = ".//Features/Login.feature",
+		features = ".//Features/AddCustomerPage.feature",
 		glue = "com.cucum.stepDefinitions",
-		dryRun = false,
+		dryRun = true,
 		monochrome = true,
 		plugin = {"pretty",
 				  "html:webpage",
